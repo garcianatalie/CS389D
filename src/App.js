@@ -64,7 +64,7 @@ const styles = StyleSheet.create({
   },
   text: {
     fontFamily: "Avenir",
-    fontSize: 17,
+    fontSize: 15,
     color: "white",
     fontWeight: "bold"
   }
